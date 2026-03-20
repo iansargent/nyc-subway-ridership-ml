@@ -9,7 +9,8 @@
 NOTE: Calculate a distance variable between origin and destination stations using coordinates
 
 ## Metadata
-This dataset was retrieved from the New York Open Data Program, an open-source repository for New York State’s publicly available datasets. It contains Metropolitan Transportation Authority (MTA) ridership data estimated and collected from MetroCard swipe and contactless MTA payment systems (OMNY). The original dataset represents aggregated ridership from each origin-destination combination along with the month, hour, and day of the week. 
+This dataset was retrieved from the New York Open Data Program, an open-source repository for New York State’s publicly available datasets. It contains Metropolitan Transportation Authority (MTA) ridership data estimated and collected from MetroCard swipe and contactless MTA payment systems (OMNY). The original dataset represents aggregated ridership from each origin-destination combination along with the month, hour, and day of the week.
+
 #### Variables:
 - Timestamp (Year, Month, Hour, Day of Week)  |  Datetime
 - Origin / Destination Station ID + Name  |  Number/Text

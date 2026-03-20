@@ -1,5 +1,0 @@
-Replace with data cleaning scripts that...
-
-1. Add/calculate useful features
-2. Handle any missing values
-3. Join with other datasets (?)

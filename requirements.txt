@@ -1,0 +1,19 @@
+# Data cleaning
+pandas
+numpy
+
+# Spatial data cleaning
+geopandas
+shapely
+pyarrow
+
+# File reading
+requests
+io
+os
+
+# Data visualization
+matplotlib
+seaborn
+altair
+leafmap

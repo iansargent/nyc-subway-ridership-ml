@@ -4,7 +4,7 @@ The first thing we did for this project was clean the data.
 In terms of this, we have two datasets, origin_data and origin_destination.
 More info on what these datasets entail can be found in the README
 
-#### Origin_data
+#### origin_data
 The data cleaning of origin_data was fairly straight forward.
 All that needed to be done was to organize the rows, standardize the column names--to remove spaces and capitlaization--
 and transform the ridership column to numeric data for better and easier analysis.
@@ -16,7 +16,7 @@ and added them to a GeoDataFrame so that they can be effectively graphed.
 In this GeoDataFrame, we also added the log(ridership), the distance between each station, and a new
 ridership per kilometer variable.
 
-### Explporatory Analysis
+### Exploratory Analysis
 Now that we have cleaned the data, it's time to look at what the datasets actually contain.
 
 #### Distributions

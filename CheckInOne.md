@@ -23,11 +23,12 @@ Now that we have cleaned the data, it's time to look at what the datasets actual
 To start, we focused on visualizing different ridership distributions.
 This includes per day of the week, month of the year, hour of the day,
 hour of the day for each specific day of the week, season of the year, etc.
+We have also done some visualizations
+of ridership in terms of origin and destination station, and are planning to do
+more in the coming weeks.
 
 These graphs give us a very good idea of the distributions of ridership,
-which will be the biggest variable of interest, as well as its trends. For
-the next couple of weeks, we are also planning on doing more visualizations
-of ridership in terms of origin and destination station.
+which will be the biggest variable of interest, as well as its trends. 
 
 #### Clustering
 To go along with our visualizations, we have also started to look into clustering

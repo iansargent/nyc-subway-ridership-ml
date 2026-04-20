@@ -5,6 +5,7 @@
 ## Data Overview
 1. Total ridership aggregated by Month x Day_of_Week x Hour x Origin_Station (852,933 rows)
 2. Total Ridership aggregated by Origin_Station x Destination_Station Combinations (178,018 rows)
+3. All data from 2024
 
 NOTE: Calculate a distance variable between origin and destination stations using coordinates
 
